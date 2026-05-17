@@ -1,6 +1,6 @@
-# Repositório de Projetos em C e C++
+# Repositório de Projetos C++
 
-Este repositório contém projetos desenvolvidos durante os estudos de programação, utilizando as linguagens C e C++. Os códigos foram criados com foco em prática acadêmica, desenvolvimento da lógica de programação e aplicação de conceitos fundamentais da computação.
+Este repositório contém projetos desenvolvidos durante os estudos de programação, utilizando a linguagem C++. Os códigos foram criados com foco em prática acadêmica, desenvolvimento da lógica de programação e aplicação de conceitos fundamentais da computação.
 
 ## Estrutura do Repositório
 
@@ -24,22 +24,15 @@ Sistema simples para gerenciamento de biblioteca, desenvolvido em linguagem C co
 Projetos desenvolvidos para prática individual e aprimoramento das habilidades em programação.
 
 #### AUTH_Clientes
-Sistema simples de autenticação de clientes desenvolvido em C++, utilizando apenas recursos básicos da linguagem, sem banco de dados e sem programação orientada a objetos.
+Sistema simples de autenticação de clientes desenvolvido em C++, utilizando apenas recursos básicos da linguagem.
 
 ## Tecnologias Utilizadas
 
-- Linguagem C
 - Linguagem C++
-- Visual Studio Code
-- GCC / G++
 
 ## Objetivos do Repositório
 
 - Praticar lógica de programação
-- Desenvolver familiaridade com C e C++
+- Desenvolver familiaridade com C++
 - Organizar projetos acadêmicos e pessoais
 - Registrar evolução nos estudos de programação
-
-## Como Executar os Projetos
-
-### Compilar arquivos em C
