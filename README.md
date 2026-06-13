@@ -29,7 +29,6 @@ Sistema simples de autenticação de clientes desenvolvido em C++, utilizando ap
 ## Tecnologias Utilizadas
 
 - Linguagem C
-- 
 
 ## Objetivos do Repositório
 
