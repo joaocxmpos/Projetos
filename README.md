@@ -1,4 +1,4 @@
-# Repositório de Projetos C++
+# Repositório de Projetos C
 
 Este repositório contém projetos desenvolvidos durante os estudos de programação, utilizando a linguagem C++. Os códigos foram criados com foco em prática acadêmica, desenvolvimento da lógica de programação e aplicação de conceitos fundamentais da computação.
 
@@ -28,7 +28,8 @@ Sistema simples de autenticação de clientes desenvolvido em C++, utilizando ap
 
 ## Tecnologias Utilizadas
 
-- Linguagem C++
+- Linguagem C
+- 
 
 ## Objetivos do Repositório
 
