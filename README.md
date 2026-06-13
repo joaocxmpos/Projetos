@@ -33,6 +33,6 @@ Sistema simples de autenticação de clientes desenvolvido em C++, utilizando ap
 ## Objetivos do Repositório
 
 - Praticar lógica de programação
-- Desenvolver familiaridade com C++
+- Desenvolver familiaridade com C
 - Organizar projetos acadêmicos e pessoais
 - Registrar evolução nos estudos de programação
